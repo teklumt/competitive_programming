@@ -1,9 +1,9 @@
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
-        cnt = Counter()
+        cnt ={}
         j = 0
         for x in fruits:
-            cnt[x] += 1
+            cnt[x] =cnt.get(x,0) +1
             if len(cnt) > 2:
                 y = fruits[j]
                 cnt[y] -= 1
