@@ -1,16 +1,14 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        n=[]
-        def valid(expr):
-            left="({["
-            right=")}]"
-            for c in expr:
-                if c in left:
-                    n.append(c)
-                elif c in right:
-                    if len(n)==0:
-                        return False
-                    if right.index(c)!=left.index(n.pop()):
-                        return False
-            return len(n)==0
-        return valid(s)
+        stack=[]
+        left="[{("
+        right="]})"
+        for i in s:
+            if i in left:
+                stack.append(i)
+            else:
+                if len(stack)==0:
+                    return False
+                if right.index(i)!=left.index(stack.pop()):
+                    return False
+        return len(stack)==0
