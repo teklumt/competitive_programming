@@ -1,10 +1,14 @@
 class Solution:
     def largestNumber(self, nums: List[int]) -> str:
-        str_num = []
-        for i in range(len(nums)):
-            str_num.append(str(nums[i]))
-        for i in range(len(str_num)-1):
-            for j in range(i+1,len(str_num)):
-                if int(str_num[i]+str_num[j])<int(str_num[j]+str_num[i]):
-                    str_num[i],str_num[j]=str_num[j],str_num[i]
-        return "0" if int("".join(str_num))==0 else "".join(str_num) 
+        str_num=[]
+        for i in nums:
+            str_num.append(str(i))
+        def compre(num1 , num2):
+            if num1 + num2 > num2 + num1:
+                return -1
+            else:
+                return 1
+        str_num=sorted(str_num,key=functools.cmp_to_key(compre));
+
+        return str(int("".join(str_num))) 
+    
