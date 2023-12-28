@@ -1,13 +1,37 @@
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
         
-        num=sorted(nums)
-        res=[]
-        for nn in nums:
-            res.append(num.index(nn))
-        return res
+        return [sorted(nums).index(nn) for nn in nums]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+       # # Method 2  
+       #  num=sorted(nums)
+       #  res=[]
+       #  for nn in nums:
+       #      res.append(num.index(nn))
+       #  return res
     
-#     Method 2
+#     Method 3
         
               
         
