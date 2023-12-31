@@ -1,10 +1,5 @@
-class Solution(object):
-    def maxIceCream(self, costs, coins):
-        """
-        :type costs: List[int]
-        :type coins: int
-        :rtype: int
-        """
+class Solution:
+    def maxIceCream(self, costs: List[int], coins: int) -> int:
         counting=[0]*(max(costs)+1)
         output=[]
         for i in costs:
@@ -17,4 +12,3 @@ class Solution(object):
             else:
                 return i
         return len(output)
-        
