@@ -8,9 +8,9 @@ class Solution:
                 new+=n.lower()
             if n in num:
                 new+=n
-        for n in range(len(new)):
-            if new[n]!=new[-1-n]:
-                bol=False
-                break
+        # for n in range(len(new)):
+        #     if new[n]!=new[-1-n]:
+        #         bol=False
+        #         break
 
-        return bol
+        return new==new[::-1]
