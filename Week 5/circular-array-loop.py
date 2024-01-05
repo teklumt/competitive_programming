@@ -10,12 +10,12 @@ class Solution:
                     seen.add(i)
                     if curr==j:
                         break
+                    
+                    if nums[curr]*nums[j]<0:
+                        break
                     else:
-                        if nums[curr]*nums[j]<0:
-                            break
-                        else:
-                            j=curr
-                            seen.add(j)
+                        j=curr
+                        seen.add(j)
                 else:
                     if curr==j:
                         break
