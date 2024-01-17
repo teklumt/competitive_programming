@@ -1,13 +1,14 @@
 class Solution:
     def carPooling(self, trips: List[List[int]], capacity: int) -> bool:
-        arr=[]
-        prisum=[0]
+        prefixsum=[0]
+        store={}
         for trip in trips:
-            arr.append([trip[1],trip[0]])
-            arr.append([trip[2],-1*trip[0]])
-        arr.sort()
-        for i in arr:
-            prisum.append(prisum[-1]+i[-1])
-        print(prisum)
-
-        return max(prisum)<=capacity 
+            store[trip[1]]=store.get(trip[1],0)+trip[0]
+            store[trip[2]]=store.get(trip[2],0)-trip[0]
+        result=[]
+        for i in store:
+            result.append([i,store[i]])
+        result.sort()
+        for i in result:
+            prefixsum.append(prefixsum[-1]+i[1])
+        return max(prefixsum)<=capacity
