@@ -1,19 +1,21 @@
 class Solution:
     def sumSubarrayMins(self, arr: List[int]) -> int:
-        MOD = 10**9 + 7
-        stack = []
-        sumOfMinimums = 0
+       
+        stack=[]
+        res=0
+        
+        for i in range(len(arr)+1):
+            while stack and (i==len(arr)  or arr[stack[-1]]>=arr[i]):
+                curr=stack.pop()
+                left= stack[-1] if stack else -1
+                right=i
 
-        for i in range(len(arr) + 1):
-            while stack and (i == len(arr) or arr[stack[-1]] >= arr[i]):
-                mid = stack.pop()
-                leftBoundary = stack[-1] if stack else -1
-                rightBoundary = i
+                count=(curr-left) * (right-curr)%(10**9 + 7)
 
-                count = (mid - leftBoundary) * (rightBoundary - mid) % MOD
-
-                sumOfMinimums += (count * arr[mid]) % MOD
-                sumOfMinimums %= MOD
+                res+=(count*arr[curr])
+               
             stack.append(i)
+        return res%(10**9 + 7)
 
-        return int(sumOfMinimums)
+
+
