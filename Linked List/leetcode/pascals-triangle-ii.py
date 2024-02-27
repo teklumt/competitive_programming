@@ -1,17 +1,17 @@
 class Solution:
     def getRow(self, rowIndex: int) -> List[int]:
-        if rowIndex==0:
-            return [1]
-        if rowIndex==1:
-            return [1,1]
-        intial=deque([1,1])
-        t=1
-        while t < rowIndex:
-            temp=deque()
-            for i in range(len(intial)-1):
-                temp.append(intial[i]+intial[i+1])
+
+        def pascal(n):
+            if n==0:
+                return [1]
+            if n==1:
+                return [1,1]
+            val=pascal(n-1)
+            temp=[1]
+            for i in range(len(val)-1):
+                temp.append(val[i]+val[i+1])
             temp.append(1)
-            temp.appendleft(1)
-            intial=temp.copy()
-            t+=1
-        return intial
+            val=temp.copy()
+            return val
+        return pascal(rowIndex)
+
