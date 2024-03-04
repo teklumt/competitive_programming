@@ -5,12 +5,9 @@ class Solution:
         temp = []
 
         def back(i):
-            # print(temp)
             if len(temp) == k:
                 if sum(temp) == n:
-                    # print('ttt')
                     res.append(temp.copy())
-                # return 
             
             for j in range(i+1, 10):
                 temp.append(j)
