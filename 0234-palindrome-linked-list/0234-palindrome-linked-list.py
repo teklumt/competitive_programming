@@ -33,5 +33,3 @@ class Solution:
             left=left.next
             right=right.next
         return True
-        
-        
