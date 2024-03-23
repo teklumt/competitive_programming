@@ -4,10 +4,11 @@ class Solution:
         
         if num[1] < num[2]:
 
-            nn = num[2] - num[1]
+            offSet = num[2] - num[1]
 
-            if nn >= num[0]:
+            if offSet >= num[0]:
                 return num[1] + num[0]
             else:
-                return num[2] + (num[0] - nn)//2
+                return num[2] + (num[0] - offSet)//2
+            
         return num[2] + (num[0])//2
