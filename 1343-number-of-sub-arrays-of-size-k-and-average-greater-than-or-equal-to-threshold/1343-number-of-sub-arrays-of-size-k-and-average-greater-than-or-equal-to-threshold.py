@@ -6,9 +6,9 @@ class Solution:
         
         left = 0
         count += 1 if summ >= minPossible else 0
+        
         for i in range(k, len(arr)):
-            summ -= arr[left]
-            summ += arr[i]
+            summ = summ -  arr[left] + arr[i]
             left += 1
             if summ >= minPossible:
                 count += 1
