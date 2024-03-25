@@ -16,8 +16,3 @@ class Solution:
             
                     
         
-        
-        
-#         count = Counter(nums)
-        
-#         return[i for i in count if count[i] == 2]
