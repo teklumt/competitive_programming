@@ -7,11 +7,12 @@ class Solution:
         for i in range(len(nums)):
             pro *= nums[i]
             while pro >= k and left <= i:
-                n = i - left 
-             
-                count += max(n - 1, 0)
+#                 n = i - left 
+#                 count += max(n - 1, 0)
                 pro //= nums[left]
                 left += 1
+            count += i - left + 1
+        return count
 
         n = len(nums) - left
         count += n *(n - 1) //2 
