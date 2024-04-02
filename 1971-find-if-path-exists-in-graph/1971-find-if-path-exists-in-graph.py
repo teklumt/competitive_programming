@@ -4,7 +4,7 @@ class Solution:
         for i in edges:
             Graph[i[0]].append(i[1])
             Graph[i[1]].append(i[0])
-        res = []
+      
         def dfs(m, visited):
             if m == destination:
                 return True
