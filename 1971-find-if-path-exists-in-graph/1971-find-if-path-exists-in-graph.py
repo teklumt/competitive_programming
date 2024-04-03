@@ -4,16 +4,18 @@ class Solution:
         for i in edges:
             Graph[i[0]].append(i[1])
             Graph[i[1]].append(i[0])
-      
-        def dfs(m, visited):
-            if m == destination:
-                return True
-            visited.add(m)
-            for i in Graph[m]:
-                if i not in visited:
-                    if dfs(i, visited):
-                        return True
-            return False
-        
-        
-        return dfs(source, set())
+        if not Graph: return True
+
+        stack = [source]
+        seen = set([source])
+
+        while stack:
+            curNode = stack.pop()
+
+            for i in Graph[curNode]:
+                if i == destination:
+                    return True
+                if i not in seen:
+                    stack.append(i)
+                    seen.add(i)
+        return False
