@@ -3,21 +3,18 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        i=0
-        j=0
-        res=[]
-        while i<m and j<n:
-            if nums1[i]<=nums2[j]:
+        res = []
+        i = 0
+        j = 0
+        while i < m and j < n:
+            if nums1[i] <= nums2[j]:
                 res.append(nums1[i])
-                i+=1
+                i += 1
             else:
                 res.append(nums2[j])
-                j+=1
-        while j<n:
-            res.append(nums2[j])
-            j+=1
-        while i<m:
-            res.append(nums1[i])
-            i+=1
-        for i in range(len(res)):
-            nums1[i]=res[i]
+                j += 1
+        
+        res.extend(nums1[i:m])
+        res.extend(nums2[j:n])
+    
+        nums1[::] = res[::]
