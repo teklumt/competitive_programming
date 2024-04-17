@@ -1,21 +1,38 @@
-from sortedcontainers import SortedList
+
 class MedianFinder:
 
     def __init__(self):
-        self.s = SortedList()
-        
 
+        self.minHeapRight = []
+        self.maxHeapLeft = []
+        heapify(self.minHeapRight)
+        heapify(self.maxHeapLeft)
+        
     def addNum(self, num: int) -> None:
-        self.s.add(num)
-        
 
+        heappush(self.maxHeapLeft, -num)
+        
+        if len(self.maxHeapLeft) -  len(self.minHeapRight) > 1 or (self.maxHeapLeft and self.minHeapRight and -self.maxHeapLeft[0] > self.minHeapRight[0]):
+            heappush(self.minHeapRight, -heappop(self.maxHeapLeft))
+        if -len(self.maxHeapLeft) +  len(self.minHeapRight) > 1:
+            heappush(self.maxHeapLeft, -heappop(self.minHeapRight))
+
+       
     def findMedian(self) -> float:
-        n=len(self.s)
-        if n%2!=0:
-            return self.s[n//2]
-        else:
-            m=n//2
-            return (self.s[m]+self.s[m-1])/2
+        n = heappop(self.minHeapRight) if self.minHeapRight else inf
+        m = -heappop(self.maxHeapLeft) if self.maxHeapLeft else inf
+        if n != inf:
+            heappush(self.minHeapRight, n)
+        if m != inf:
+            heappush(self.maxHeapLeft, -m)
+       
+        if (len(self.minHeapRight) + len(self.maxHeapLeft))% 2:
+            if (len(self.minHeapRight) + len(self.maxHeapLeft)) == 1:
+                return min(n, m)
+            elif len(self.minHeapRight) > len(self.maxHeapLeft):
+                return self.minHeapRight[0]
+            return -self.maxHeapLeft[0]
+        return ( n + m) / 2
         
 
 
