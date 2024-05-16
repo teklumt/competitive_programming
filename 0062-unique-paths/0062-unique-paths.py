@@ -1,5 +1,21 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
+        # Bottom Up         
+        memo = [1] * n
+        for i in range(1, m):
+            for j in range(1 , n):
+                memo[j] += memo[j - 1]
+        return memo[-1]
+        
+        
+        
+        
+        
+        
+        # Top Down         
+        
+        
+        
         direction = [(1, 0), (0, 1)]
         memo = {}
 
