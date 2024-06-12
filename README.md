@@ -12,6 +12,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/teklumt/competitive_programming/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/teklumt/competitive_programming/tree/master/0344-reverse-string) |
 # Hash Table
 |  |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/teklumt/competitive_programming/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/teklumt/competitive_programming/tree/master/0075-sort-colors) |
 | [0648-replace-words](https://github.com/teklumt/competitive_programming/tree/master/0648-replace-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/teklumt/competitive_programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/teklumt/competitive_programming/tree/master/1044-find-common-characters) |
@@ -46,6 +48,7 @@
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/teklumt/competitive_programming/tree/master/0075-sort-colors) |
 | [1137-height-checker](https://github.com/teklumt/competitive_programming/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/teklumt/competitive_programming/tree/master/1217-relative-sort-array) |
 # Counting Sort
