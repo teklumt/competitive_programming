@@ -14,6 +14,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/teklumt/competitive_programming/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/teklumt/competitive_programming/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/teklumt/competitive_programming/tree/master/0633-sum-of-square-numbers) |
 # Hash Table
 |  |
 | ------- |
@@ -73,3 +74,11 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/teklumt/competitive_programming/tree/master/0502-ipo) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/teklumt/competitive_programming/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/teklumt/competitive_programming/tree/master/0633-sum-of-square-numbers) |
