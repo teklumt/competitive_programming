@@ -46,6 +46,7 @@
 | [1137-height-checker](https://github.com/teklumt/competitive_programming/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/teklumt/competitive_programming/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/teklumt/competitive_programming/tree/master/1217-relative-sort-array) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/teklumt/competitive_programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Trie
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/teklumt/competitive_programming/tree/master/0502-ipo) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/teklumt/competitive_programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Math
 |  |
 | ------- |
@@ -92,3 +94,16 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/teklumt/competitive_programming/tree/master/1138-grumpy-bookstore-owner) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/teklumt/competitive_programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/teklumt/competitive_programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/teklumt/competitive_programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/teklumt/competitive_programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
