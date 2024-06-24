@@ -25,6 +25,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/teklumt/competitive_programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/teklumt/competitive_programming/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/teklumt/competitive_programming/tree/master/1217-relative-sort-array) |
+| [2447-merge-similar-items](https://github.com/teklumt/competitive_programming/tree/master/2447-merge-similar-items) |
 # Greedy
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [1138-grumpy-bookstore-owner](https://github.com/teklumt/competitive_programming/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/teklumt/competitive_programming/tree/master/1217-relative-sort-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/teklumt/competitive_programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2447-merge-similar-items](https://github.com/teklumt/competitive_programming/tree/master/2447-merge-similar-items) |
 # Trie
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0853-most-profit-assigning-work](https://github.com/teklumt/competitive_programming/tree/master/0853-most-profit-assigning-work) |
 | [1137-height-checker](https://github.com/teklumt/competitive_programming/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/teklumt/competitive_programming/tree/master/1217-relative-sort-array) |
+| [2447-merge-similar-items](https://github.com/teklumt/competitive_programming/tree/master/2447-merge-similar-items) |
 # Counting Sort
 |  |
 | ------- |
@@ -103,6 +106,7 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/teklumt/competitive_programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2447-merge-similar-items](https://github.com/teklumt/competitive_programming/tree/master/2447-merge-similar-items) |
 # Monotonic Queue
 |  |
 | ------- |
