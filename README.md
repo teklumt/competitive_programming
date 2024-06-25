@@ -40,6 +40,7 @@
 | [0075-sort-colors](https://github.com/teklumt/competitive_programming/tree/master/0075-sort-colors) |
 | [0330-patching-array](https://github.com/teklumt/competitive_programming/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/teklumt/competitive_programming/tree/master/0502-ipo) |
+| [0540-single-element-in-a-sorted-array](https://github.com/teklumt/competitive_programming/tree/master/0540-single-element-in-a-sorted-array) |
 | [0648-replace-words](https://github.com/teklumt/competitive_programming/tree/master/0648-replace-words) |
 | [0853-most-profit-assigning-work](https://github.com/teklumt/competitive_programming/tree/master/0853-most-profit-assigning-work) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/teklumt/competitive_programming/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -122,6 +123,7 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/teklumt/competitive_programming/tree/master/0540-single-element-in-a-sorted-array) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/teklumt/competitive_programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Tree
 |  |
