@@ -6,21 +6,17 @@
 #         self.right = right
 class Solution:
     def bstToGst(self, root: TreeNode) -> TreeNode:
-        nums = []
-        
-        def inorder(root):
-            if not root: return
-
-            inorder(root.left)           
-            nums.append(root.val)
-            inorder(root.right)
-        inorder(root)
-        pre = list(accumulate(nums[::-1]))[::-1]
+        prefix = 0
         def inorderModi(root):
-            if not root :return
-            inorderModi(root.left)
-            root.val = pre[bisect_left(nums, root.val)]
-            inorderModi(root.right) 
+            nonlocal prefix
+            if not root :
+                return
+
+            inorderModi(root.right)
+            root.val += prefix
+            prefix  = root.val
+            inorderModi(root.left) 
+            
         inorderModi(root)
 
         return root          
