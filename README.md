@@ -16,6 +16,7 @@
 | [0344-reverse-string](https://github.com/teklumt/competitive_programming/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/teklumt/competitive_programming/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/teklumt/competitive_programming/tree/master/0853-most-profit-assigning-work) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/teklumt/competitive_programming/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 # Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [1217-relative-sort-array](https://github.com/teklumt/competitive_programming/tree/master/1217-relative-sort-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/teklumt/competitive_programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2447-merge-similar-items](https://github.com/teklumt/competitive_programming/tree/master/2447-merge-similar-items) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/teklumt/competitive_programming/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 # Trie
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [1137-height-checker](https://github.com/teklumt/competitive_programming/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/teklumt/competitive_programming/tree/master/1217-relative-sort-array) |
 | [2447-merge-similar-items](https://github.com/teklumt/competitive_programming/tree/master/2447-merge-similar-items) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/teklumt/competitive_programming/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 # Counting Sort
 |  |
 | ------- |
