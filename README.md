@@ -126,6 +126,7 @@
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/teklumt/competitive_programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/teklumt/competitive_programming/tree/master/1285-balance-a-binary-search-tree) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/teklumt/competitive_programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -141,3 +142,15 @@
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/teklumt/competitive_programming/tree/master/1285-balance-a-binary-search-tree) |
+# Breadth-First Search
+|  |
+| ------- |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/teklumt/competitive_programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+# Union Find
+|  |
+| ------- |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/teklumt/competitive_programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+# Graph
+|  |
+| ------- |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/teklumt/competitive_programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
