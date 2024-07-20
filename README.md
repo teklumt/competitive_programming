@@ -185,6 +185,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/teklumt/competitive_programming/tree/master/1293-three-consecutive-odds) |
 | [1675-magnetic-force-between-two-balls](https://github.com/teklumt/competitive_programming/tree/master/1675-magnetic-force-between-two-balls) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/teklumt/competitive_programming/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -230,4 +231,12 @@
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/teklumt/competitive_programming/tree/master/0199-binary-tree-right-side-view) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/teklumt/competitive_programming/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Greedy
+|  |
+| ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/teklumt/competitive_programming/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+## Matrix
+|  |
+| ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/teklumt/competitive_programming/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
