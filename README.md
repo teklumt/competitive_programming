@@ -186,6 +186,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/teklumt/competitive_programming/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/teklumt/competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/teklumt/competitive_programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -217,6 +218,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/teklumt/competitive_programming/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/teklumt/competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
