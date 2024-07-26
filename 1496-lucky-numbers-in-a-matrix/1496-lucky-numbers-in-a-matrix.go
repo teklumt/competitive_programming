@@ -21,7 +21,7 @@ func luckyNumbers (matrix [][]int) []int {
 
     m, n := len(matrix), len(matrix[0])
 
-    var res = []int{}
+    // var res = []int{}
     var transponse [][]int = make([][]int, n)
     for i := range transponse {
         transponse[i] = make([]int, m)
@@ -37,12 +37,13 @@ func luckyNumbers (matrix [][]int) []int {
     for  i := 0; i < m; i++ {
         for j := 0; j < n; j++{
             if matrix[i][j] == min(matrix[i]) && matrix[i][j] == max(transponse[j]){
-                res = append(res, matrix[i][j])
+                // res = append(res, matrix[i][j])
+                return  []int{matrix[i][j]}
             }
 
         }
     }
-    return res
+    return []int{}
 
 
 
