@@ -170,6 +170,7 @@
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/teklumt/competitive_programming/tree/master/0199-binary-tree-right-side-view) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/teklumt/competitive_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1876-map-of-highest-peak](https://github.com/teklumt/competitive_programming/tree/master/1876-map-of-highest-peak) |
 | [2213-find-all-people-with-secret](https://github.com/teklumt/competitive_programming/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/teklumt/competitive_programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph
@@ -197,6 +198,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/teklumt/competitive_programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/teklumt/competitive_programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/teklumt/competitive_programming/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1876-map-of-highest-peak](https://github.com/teklumt/competitive_programming/tree/master/1876-map-of-highest-peak) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
@@ -269,6 +271,7 @@
 | [0073-set-matrix-zeroes](https://github.com/teklumt/competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/teklumt/competitive_programming/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/teklumt/competitive_programming/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1876-map-of-highest-peak](https://github.com/teklumt/competitive_programming/tree/master/1876-map-of-highest-peak) |
 ## String
 |  |
 | ------- |
