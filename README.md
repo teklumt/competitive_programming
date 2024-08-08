@@ -160,6 +160,7 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/teklumt/competitive_programming/tree/master/0199-binary-tree-right-side-view) |
+| [1275-validate-binary-tree-nodes](https://github.com/teklumt/competitive_programming/tree/master/1275-validate-binary-tree-nodes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/teklumt/competitive_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/teklumt/competitive_programming/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2213-find-all-people-with-secret](https://github.com/teklumt/competitive_programming/tree/master/2213-find-all-people-with-secret) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/teklumt/competitive_programming/tree/master/0199-binary-tree-right-side-view) |
+| [1275-validate-binary-tree-nodes](https://github.com/teklumt/competitive_programming/tree/master/1275-validate-binary-tree-nodes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/teklumt/competitive_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1876-map-of-highest-peak](https://github.com/teklumt/competitive_programming/tree/master/1876-map-of-highest-peak) |
 | [2213-find-all-people-with-secret](https://github.com/teklumt/competitive_programming/tree/master/2213-find-all-people-with-secret) |
@@ -176,6 +178,7 @@
 ## Graph
 |  |
 | ------- |
+| [1275-validate-binary-tree-nodes](https://github.com/teklumt/competitive_programming/tree/master/1275-validate-binary-tree-nodes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/teklumt/competitive_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/teklumt/competitive_programming/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2213-find-all-people-with-secret](https://github.com/teklumt/competitive_programming/tree/master/2213-find-all-people-with-secret) |
@@ -219,6 +222,7 @@
 ## Union Find
 |  |
 | ------- |
+| [1275-validate-binary-tree-nodes](https://github.com/teklumt/competitive_programming/tree/master/1275-validate-binary-tree-nodes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/teklumt/competitive_programming/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2213-find-all-people-with-secret](https://github.com/teklumt/competitive_programming/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/teklumt/competitive_programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -252,12 +256,14 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/teklumt/competitive_programming/tree/master/0199-binary-tree-right-side-view) |
+| [1275-validate-binary-tree-nodes](https://github.com/teklumt/competitive_programming/tree/master/1275-validate-binary-tree-nodes) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/teklumt/competitive_programming/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/teklumt/competitive_programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/teklumt/competitive_programming/tree/master/0199-binary-tree-right-side-view) |
+| [1275-validate-binary-tree-nodes](https://github.com/teklumt/competitive_programming/tree/master/1275-validate-binary-tree-nodes) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/teklumt/competitive_programming/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/teklumt/competitive_programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Greedy
