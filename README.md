@@ -192,6 +192,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/teklumt/competitive_programming/tree/master/0001-two-sum) |
+| [0064-minimum-path-sum](https://github.com/teklumt/competitive_programming/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/teklumt/competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/teklumt/competitive_programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/teklumt/competitive_programming/tree/master/0217-contains-duplicate) |
@@ -276,6 +277,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/teklumt/competitive_programming/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/teklumt/competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/teklumt/competitive_programming/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/teklumt/competitive_programming/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -285,4 +287,8 @@
 | ------- |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/teklumt/competitive_programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/teklumt/competitive_programming/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
