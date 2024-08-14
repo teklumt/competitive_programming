@@ -159,6 +159,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/teklumt/competitive_programming/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/teklumt/competitive_programming/tree/master/0199-binary-tree-right-side-view) |
 | [1275-validate-binary-tree-nodes](https://github.com/teklumt/competitive_programming/tree/master/1275-validate-binary-tree-nodes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/teklumt/competitive_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -171,6 +172,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/teklumt/competitive_programming/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/teklumt/competitive_programming/tree/master/0199-binary-tree-right-side-view) |
 | [1275-validate-binary-tree-nodes](https://github.com/teklumt/competitive_programming/tree/master/1275-validate-binary-tree-nodes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/teklumt/competitive_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -201,6 +203,7 @@
 | [0064-minimum-path-sum](https://github.com/teklumt/competitive_programming/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/teklumt/competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/teklumt/competitive_programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0130-surrounded-regions](https://github.com/teklumt/competitive_programming/tree/master/0130-surrounded-regions) |
 | [0217-contains-duplicate](https://github.com/teklumt/competitive_programming/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/teklumt/competitive_programming/tree/master/0605-can-place-flowers) |
@@ -233,6 +236,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/teklumt/competitive_programming/tree/master/0130-surrounded-regions) |
 | [1275-validate-binary-tree-nodes](https://github.com/teklumt/competitive_programming/tree/master/1275-validate-binary-tree-nodes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/teklumt/competitive_programming/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1753-path-with-minimum-effort](https://github.com/teklumt/competitive_programming/tree/master/1753-path-with-minimum-effort) |
@@ -290,6 +294,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/teklumt/competitive_programming/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/teklumt/competitive_programming/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/teklumt/competitive_programming/tree/master/0130-surrounded-regions) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/teklumt/competitive_programming/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/teklumt/competitive_programming/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1753-path-with-minimum-effort](https://github.com/teklumt/competitive_programming/tree/master/1753-path-with-minimum-effort) |
