@@ -235,6 +235,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/teklumt/competitive_programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [2213-find-all-people-with-secret](https://github.com/teklumt/competitive_programming/tree/master/2213-find-all-people-with-secret) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/teklumt/competitive_programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -254,6 +255,7 @@
 | [0264-ugly-number-ii](https://github.com/teklumt/competitive_programming/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/teklumt/competitive_programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -297,6 +299,7 @@
 | [0890-lemonade-change](https://github.com/teklumt/competitive_programming/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/teklumt/competitive_programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/teklumt/competitive_programming/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/teklumt/competitive_programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -312,6 +315,7 @@
 | ------- |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/teklumt/competitive_programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/teklumt/competitive_programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -330,4 +334,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/teklumt/competitive_programming/tree/master/0002-add-two-numbers) |
+## Counting
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/teklumt/competitive_programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
