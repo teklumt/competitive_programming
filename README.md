@@ -251,6 +251,7 @@
 | [0001-two-sum](https://github.com/teklumt/competitive_programming/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/teklumt/competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/teklumt/competitive_programming/tree/master/0217-contains-duplicate) |
+| [0264-ugly-number-ii](https://github.com/teklumt/competitive_programming/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -267,6 +268,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/teklumt/competitive_programming/tree/master/0002-add-two-numbers) |
+| [0264-ugly-number-ii](https://github.com/teklumt/competitive_programming/tree/master/0264-ugly-number-ii) |
 | [2645-pass-the-pillow](https://github.com/teklumt/competitive_programming/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -314,9 +316,11 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/teklumt/competitive_programming/tree/master/0064-minimum-path-sum) |
+| [0264-ugly-number-ii](https://github.com/teklumt/competitive_programming/tree/master/0264-ugly-number-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/teklumt/competitive_programming/tree/master/0264-ugly-number-ii) |
 | [1753-path-with-minimum-effort](https://github.com/teklumt/competitive_programming/tree/master/1753-path-with-minimum-effort) |
 ## Backtracking
 |  |
