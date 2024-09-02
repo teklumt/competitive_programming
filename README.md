@@ -217,6 +217,7 @@
 | [0073-set-matrix-zeroes](https://github.com/teklumt/competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/teklumt/competitive_programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/teklumt/competitive_programming/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/teklumt/competitive_programming/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/teklumt/competitive_programming/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/teklumt/competitive_programming/tree/master/0605-can-place-flowers) |
@@ -353,6 +354,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/teklumt/competitive_programming/tree/master/0064-minimum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/teklumt/competitive_programming/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/teklumt/competitive_programming/tree/master/0264-ugly-number-ii) |
 ## Heap (Priority Queue)
 |  |
