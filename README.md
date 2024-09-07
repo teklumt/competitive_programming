@@ -171,6 +171,7 @@
 | [1275-validate-binary-tree-nodes](https://github.com/teklumt/competitive_programming/tree/master/1275-validate-binary-tree-nodes) |
 | [1396-count-servers-that-communicate](https://github.com/teklumt/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/teklumt/competitive_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1484-linked-list-in-binary-tree](https://github.com/teklumt/competitive_programming/tree/master/1484-linked-list-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/teklumt/competitive_programming/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/teklumt/competitive_programming/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1753-path-with-minimum-effort](https://github.com/teklumt/competitive_programming/tree/master/1753-path-with-minimum-effort) |
@@ -188,6 +189,7 @@
 | [1275-validate-binary-tree-nodes](https://github.com/teklumt/competitive_programming/tree/master/1275-validate-binary-tree-nodes) |
 | [1396-count-servers-that-communicate](https://github.com/teklumt/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/teklumt/competitive_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1484-linked-list-in-binary-tree](https://github.com/teklumt/competitive_programming/tree/master/1484-linked-list-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/teklumt/competitive_programming/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/teklumt/competitive_programming/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/teklumt/competitive_programming/tree/master/1876-map-of-highest-peak) |
@@ -294,6 +296,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/teklumt/competitive_programming/tree/master/0002-add-two-numbers) |
+| [1484-linked-list-in-binary-tree](https://github.com/teklumt/competitive_programming/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/teklumt/competitive_programming/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/teklumt/competitive_programming/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/teklumt/competitive_programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -320,6 +323,7 @@
 | [0257-binary-tree-paths](https://github.com/teklumt/competitive_programming/tree/master/0257-binary-tree-paths) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/teklumt/competitive_programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1275-validate-binary-tree-nodes](https://github.com/teklumt/competitive_programming/tree/master/1275-validate-binary-tree-nodes) |
+| [1484-linked-list-in-binary-tree](https://github.com/teklumt/competitive_programming/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/teklumt/competitive_programming/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/teklumt/competitive_programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
@@ -330,6 +334,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/teklumt/competitive_programming/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/teklumt/competitive_programming/tree/master/0257-binary-tree-paths) |
 | [1275-validate-binary-tree-nodes](https://github.com/teklumt/competitive_programming/tree/master/1275-validate-binary-tree-nodes) |
+| [1484-linked-list-in-binary-tree](https://github.com/teklumt/competitive_programming/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/teklumt/competitive_programming/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/teklumt/competitive_programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Greedy
