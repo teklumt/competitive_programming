@@ -232,6 +232,7 @@
 | [0890-lemonade-change](https://github.com/teklumt/competitive_programming/tree/master/0890-lemonade-change) |
 | [1293-three-consecutive-odds](https://github.com/teklumt/competitive_programming/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/teklumt/competitive_programming/tree/master/1325-path-with-maximum-probability) |
+| [1331-path-with-maximum-gold](https://github.com/teklumt/competitive_programming/tree/master/1331-path-with-maximum-gold) |
 | [1333-sort-the-jumbled-numbers](https://github.com/teklumt/competitive_programming/tree/master/1333-sort-the-jumbled-numbers) |
 | [1396-count-servers-that-communicate](https://github.com/teklumt/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/teklumt/competitive_programming/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -353,6 +354,7 @@
 | [0064-minimum-path-sum](https://github.com/teklumt/competitive_programming/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/teklumt/competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/teklumt/competitive_programming/tree/master/0130-surrounded-regions) |
+| [1331-path-with-maximum-gold](https://github.com/teklumt/competitive_programming/tree/master/1331-path-with-maximum-gold) |
 | [1396-count-servers-that-communicate](https://github.com/teklumt/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/teklumt/competitive_programming/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/teklumt/competitive_programming/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -386,6 +388,7 @@
 | [0040-combination-sum-ii](https://github.com/teklumt/competitive_programming/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/teklumt/competitive_programming/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/teklumt/competitive_programming/tree/master/0257-binary-tree-paths) |
+| [1331-path-with-maximum-gold](https://github.com/teklumt/competitive_programming/tree/master/1331-path-with-maximum-gold) |
 ## Recursion
 |  |
 | ------- |
