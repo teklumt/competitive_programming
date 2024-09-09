@@ -289,6 +289,7 @@
 | [0217-contains-duplicate](https://github.com/teklumt/competitive_programming/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/teklumt/competitive_programming/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0677-map-sum-pairs](https://github.com/teklumt/competitive_programming/tree/master/0677-map-sum-pairs) |
 | [0926-find-and-replace-pattern](https://github.com/teklumt/competitive_programming/tree/master/0926-find-and-replace-pattern) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/teklumt/competitive_programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/teklumt/competitive_programming/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -377,6 +378,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/teklumt/competitive_programming/tree/master/0257-binary-tree-paths) |
 | [0592-fraction-addition-and-subtraction](https://github.com/teklumt/competitive_programming/tree/master/0592-fraction-addition-and-subtraction) |
+| [0677-map-sum-pairs](https://github.com/teklumt/competitive_programming/tree/master/0677-map-sum-pairs) |
 | [0926-find-and-replace-pattern](https://github.com/teklumt/competitive_programming/tree/master/0926-find-and-replace-pattern) |
 | [1026-string-without-aaa-or-bbb](https://github.com/teklumt/competitive_programming/tree/master/1026-string-without-aaa-or-bbb) |
 | [1321-get-equal-substrings-within-budget](https://github.com/teklumt/competitive_programming/tree/master/1321-get-equal-substrings-within-budget) |
@@ -439,4 +441,12 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/teklumt/competitive_programming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0677-map-sum-pairs](https://github.com/teklumt/competitive_programming/tree/master/0677-map-sum-pairs) |
+## Trie
+|  |
+| ------- |
+| [0677-map-sum-pairs](https://github.com/teklumt/competitive_programming/tree/master/0677-map-sum-pairs) |
 <!---LeetCode Topics End-->
