@@ -7,7 +7,15 @@ class MapSum:
 
     def insert(self, key: str, val: int) -> None:
         self.mapp[key] = val
-        self.insert(key, val)
+        cur = self.root
+        i = 0
+        while i < len(key):
+            if key[i] not in cur:
+                cur[key[i]] =  {"#" : 0, "summ" : 0}
+            cur = cur[key[i]]
+            i += 1
+        cur["#"] = 1
+        cur["summ"] = val
 
     def sum(self, prefix: str) -> int:
         cur = self.root
@@ -26,29 +34,6 @@ class MapSum:
                 if node != '#' and node != "summ":
                     queue.append(curNode[node])
         return res
-
-            
-
-
-
-
-
-    def insert(self, key:str, val:int) -> None:
-        cur = self.root
-        i = 0
-        while i < len(key):
-            if key[i] not in cur:
-                cur[key[i]] =  {"#" : 0, "summ" : 0}
-            cur = cur[key[i]]
-            i += 1
-        cur["#"] = 1
-        cur["summ"] = val
-    
-        
-        
-
-        
-
 
 # Your MapSum object will be instantiated and called as such:
 # obj = MapSum()
