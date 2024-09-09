@@ -292,6 +292,7 @@
 | [0926-find-and-replace-pattern](https://github.com/teklumt/competitive_programming/tree/master/0926-find-and-replace-pattern) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/teklumt/competitive_programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/teklumt/competitive_programming/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1526-html-entity-parser](https://github.com/teklumt/competitive_programming/tree/master/1526-html-entity-parser) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/teklumt/competitive_programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/teklumt/competitive_programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -379,6 +380,7 @@
 | [0926-find-and-replace-pattern](https://github.com/teklumt/competitive_programming/tree/master/0926-find-and-replace-pattern) |
 | [1026-string-without-aaa-or-bbb](https://github.com/teklumt/competitive_programming/tree/master/1026-string-without-aaa-or-bbb) |
 | [1321-get-equal-substrings-within-budget](https://github.com/teklumt/competitive_programming/tree/master/1321-get-equal-substrings-within-budget) |
+| [1526-html-entity-parser](https://github.com/teklumt/competitive_programming/tree/master/1526-html-entity-parser) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/teklumt/competitive_programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/teklumt/competitive_programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
