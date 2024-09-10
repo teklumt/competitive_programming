@@ -323,6 +323,7 @@
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/teklumt/competitive_programming/tree/master/0592-fraction-addition-and-subtraction) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/teklumt/competitive_programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/teklumt/competitive_programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/teklumt/competitive_programming/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/teklumt/competitive_programming/tree/master/2645-pass-the-pillow) |
 ## Tree
@@ -383,6 +384,7 @@
 | [1026-string-without-aaa-or-bbb](https://github.com/teklumt/competitive_programming/tree/master/1026-string-without-aaa-or-bbb) |
 | [1321-get-equal-substrings-within-budget](https://github.com/teklumt/competitive_programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1526-html-entity-parser](https://github.com/teklumt/competitive_programming/tree/master/1526-html-entity-parser) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/teklumt/competitive_programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/teklumt/competitive_programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/teklumt/competitive_programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
