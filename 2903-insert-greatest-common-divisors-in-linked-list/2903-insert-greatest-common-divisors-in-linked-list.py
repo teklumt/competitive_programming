@@ -8,7 +8,6 @@ class Solution:
         dummy = ListNode()
         currD = dummy
         while head.next:
-            # print(head.val)
             temp = head.next
             currD.next = head
             currD = currD.next
@@ -17,6 +16,4 @@ class Solution:
             head = temp
         if head:
             currD.next = head
-            currD  = currD.next
-        currD.next = None
         return dummy.next
