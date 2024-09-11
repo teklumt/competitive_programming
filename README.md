@@ -321,6 +321,7 @@
 | [0755-reach-a-number](https://github.com/teklumt/competitive_programming/tree/master/0755-reach-a-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/teklumt/competitive_programming/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/teklumt/competitive_programming/tree/master/1334-sum-of-numbers-with-units-digit-k) |
+| [2238-a-number-after-a-double-reversal](https://github.com/teklumt/competitive_programming/tree/master/2238-a-number-after-a-double-reversal) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/teklumt/competitive_programming/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/teklumt/competitive_programming/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2645-pass-the-pillow](https://github.com/teklumt/competitive_programming/tree/master/2645-pass-the-pillow) |
