@@ -232,6 +232,7 @@
 | [0130-surrounded-regions](https://github.com/teklumt/competitive_programming/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/teklumt/competitive_programming/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/teklumt/competitive_programming/tree/master/0217-contains-duplicate) |
+| [0313-super-ugly-number](https://github.com/teklumt/competitive_programming/tree/master/0313-super-ugly-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/teklumt/competitive_programming/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/teklumt/competitive_programming/tree/master/0624-maximum-distance-in-arrays) |
@@ -328,6 +329,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/teklumt/competitive_programming/tree/master/0002-add-two-numbers) |
 | [0264-ugly-number-ii](https://github.com/teklumt/competitive_programming/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/teklumt/competitive_programming/tree/master/0313-super-ugly-number) |
 | [0592-fraction-addition-and-subtraction](https://github.com/teklumt/competitive_programming/tree/master/0592-fraction-addition-and-subtraction) |
 | [0755-reach-a-number](https://github.com/teklumt/competitive_programming/tree/master/0755-reach-a-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/teklumt/competitive_programming/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -416,6 +418,7 @@
 | [0064-minimum-path-sum](https://github.com/teklumt/competitive_programming/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/teklumt/competitive_programming/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/teklumt/competitive_programming/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/teklumt/competitive_programming/tree/master/0313-super-ugly-number) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/teklumt/competitive_programming/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 ## Heap (Priority Queue)
 |  |
