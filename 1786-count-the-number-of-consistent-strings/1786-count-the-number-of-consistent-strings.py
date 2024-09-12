@@ -1,12 +1,8 @@
 class Solution:
     def countConsistentStrings(self, allowed: str, words: List[str]) -> int:
-        count = 0
-        for n in words:
-            bol = True
-            for k in set(n):
-                if k not in allowed:
-                    bol = False
-                    break
-            if bol == True:
-                count += 1
-        return count
+        check = set(list(allowed))
+        res = 0
+        for i in words:
+            if check.intersection( set(list(i)))  == set(list(i)):
+                res += 1
+        return res
