@@ -248,6 +248,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/teklumt/competitive_programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/teklumt/competitive_programming/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1753-path-with-minimum-effort](https://github.com/teklumt/competitive_programming/tree/master/1753-path-with-minimum-effort) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/teklumt/competitive_programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1876-map-of-highest-peak](https://github.com/teklumt/competitive_programming/tree/master/1876-map-of-highest-peak) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/teklumt/competitive_programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/teklumt/competitive_programming/tree/master/2035-count-sub-islands) |
@@ -303,6 +304,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/teklumt/competitive_programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/teklumt/competitive_programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1526-html-entity-parser](https://github.com/teklumt/competitive_programming/tree/master/1526-html-entity-parser) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/teklumt/competitive_programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/teklumt/competitive_programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/teklumt/competitive_programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -403,6 +405,7 @@
 | [1026-string-without-aaa-or-bbb](https://github.com/teklumt/competitive_programming/tree/master/1026-string-without-aaa-or-bbb) |
 | [1321-get-equal-substrings-within-budget](https://github.com/teklumt/competitive_programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1526-html-entity-parser](https://github.com/teklumt/competitive_programming/tree/master/1526-html-entity-parser) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/teklumt/competitive_programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/teklumt/competitive_programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/teklumt/competitive_programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
@@ -436,6 +439,7 @@
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/teklumt/competitive_programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1396-count-servers-that-communicate](https://github.com/teklumt/competitive_programming/tree/master/1396-count-servers-that-communicate) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/teklumt/competitive_programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/teklumt/competitive_programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
@@ -482,6 +486,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/teklumt/competitive_programming/tree/master/0191-number-of-1-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/teklumt/competitive_programming/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/teklumt/competitive_programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/teklumt/competitive_programming/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Number Theory
 |  |
