@@ -167,6 +167,7 @@
 | [0257-binary-tree-paths](https://github.com/teklumt/competitive_programming/tree/master/0257-binary-tree-paths) |
 | [0684-redundant-connection](https://github.com/teklumt/competitive_programming/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/teklumt/competitive_programming/tree/master/0685-redundant-connection-ii) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/teklumt/competitive_programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/teklumt/competitive_programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/teklumt/competitive_programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/teklumt/competitive_programming/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -370,6 +371,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/teklumt/competitive_programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/teklumt/competitive_programming/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/teklumt/competitive_programming/tree/master/0257-binary-tree-paths) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/teklumt/competitive_programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/teklumt/competitive_programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1275-validate-binary-tree-nodes](https://github.com/teklumt/competitive_programming/tree/master/1275-validate-binary-tree-nodes) |
 | [1484-linked-list-in-binary-tree](https://github.com/teklumt/competitive_programming/tree/master/1484-linked-list-in-binary-tree) |
@@ -470,6 +472,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/teklumt/competitive_programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/teklumt/competitive_programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/teklumt/competitive_programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/teklumt/competitive_programming/tree/master/1078-remove-outermost-parentheses) |
 ## Shortest Path
