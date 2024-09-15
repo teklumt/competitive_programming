@@ -258,6 +258,7 @@
 | [1876-map-of-highest-peak](https://github.com/teklumt/competitive_programming/tree/master/1876-map-of-highest-peak) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/teklumt/competitive_programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/teklumt/competitive_programming/tree/master/2035-count-sub-islands) |
+| [2378-sender-with-largest-word-count](https://github.com/teklumt/competitive_programming/tree/master/2378-sender-with-largest-word-count) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/teklumt/competitive_programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/teklumt/competitive_programming/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -318,6 +319,7 @@
 | [1526-html-entity-parser](https://github.com/teklumt/competitive_programming/tree/master/1526-html-entity-parser) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/teklumt/competitive_programming/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/teklumt/competitive_programming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2378-sender-with-largest-word-count](https://github.com/teklumt/competitive_programming/tree/master/2378-sender-with-largest-word-count) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/teklumt/competitive_programming/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/teklumt/competitive_programming/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -434,6 +436,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/teklumt/competitive_programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/teklumt/competitive_programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/teklumt/competitive_programming/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2378-sender-with-largest-word-count](https://github.com/teklumt/competitive_programming/tree/master/2378-sender-with-largest-word-count) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/teklumt/competitive_programming/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/teklumt/competitive_programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -469,6 +472,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/teklumt/competitive_programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1396-count-servers-that-communicate](https://github.com/teklumt/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/teklumt/competitive_programming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2378-sender-with-largest-word-count](https://github.com/teklumt/competitive_programming/tree/master/2378-sender-with-largest-word-count) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/teklumt/competitive_programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
