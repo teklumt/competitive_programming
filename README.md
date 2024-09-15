@@ -238,6 +238,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/teklumt/competitive_programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/teklumt/competitive_programming/tree/master/0890-lemonade-change) |
 | [0926-find-and-replace-pattern](https://github.com/teklumt/competitive_programming/tree/master/0926-find-and-replace-pattern) |
+| [1080-camelcase-matching](https://github.com/teklumt/competitive_programming/tree/master/1080-camelcase-matching) |
 | [1272-invalid-transactions](https://github.com/teklumt/competitive_programming/tree/master/1272-invalid-transactions) |
 | [1293-three-consecutive-odds](https://github.com/teklumt/competitive_programming/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/teklumt/competitive_programming/tree/master/1325-path-with-maximum-probability) |
@@ -321,6 +322,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1080-camelcase-matching](https://github.com/teklumt/competitive_programming/tree/master/1080-camelcase-matching) |
 ## Linked List
 |  |
 | ------- |
@@ -413,6 +415,7 @@
 | [0677-map-sum-pairs](https://github.com/teklumt/competitive_programming/tree/master/0677-map-sum-pairs) |
 | [0926-find-and-replace-pattern](https://github.com/teklumt/competitive_programming/tree/master/0926-find-and-replace-pattern) |
 | [1026-string-without-aaa-or-bbb](https://github.com/teklumt/competitive_programming/tree/master/1026-string-without-aaa-or-bbb) |
+| [1080-camelcase-matching](https://github.com/teklumt/competitive_programming/tree/master/1080-camelcase-matching) |
 | [1272-invalid-transactions](https://github.com/teklumt/competitive_programming/tree/master/1272-invalid-transactions) |
 | [1321-get-equal-substrings-within-budget](https://github.com/teklumt/competitive_programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/teklumt/competitive_programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -492,6 +495,7 @@
 |  |
 | ------- |
 | [0677-map-sum-pairs](https://github.com/teklumt/competitive_programming/tree/master/0677-map-sum-pairs) |
+| [1080-camelcase-matching](https://github.com/teklumt/competitive_programming/tree/master/1080-camelcase-matching) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/teklumt/competitive_programming/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Enumeration
 |  |
@@ -517,4 +521,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/teklumt/competitive_programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## String Matching
+|  |
+| ------- |
+| [1080-camelcase-matching](https://github.com/teklumt/competitive_programming/tree/master/1080-camelcase-matching) |
 <!---LeetCode Topics End-->
