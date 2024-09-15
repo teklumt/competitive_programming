@@ -319,6 +319,7 @@
 | [1526-html-entity-parser](https://github.com/teklumt/competitive_programming/tree/master/1526-html-entity-parser) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/teklumt/competitive_programming/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/teklumt/competitive_programming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/teklumt/competitive_programming/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2378-sender-with-largest-word-count](https://github.com/teklumt/competitive_programming/tree/master/2378-sender-with-largest-word-count) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/teklumt/competitive_programming/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -351,6 +352,7 @@
 | [0755-reach-a-number](https://github.com/teklumt/competitive_programming/tree/master/0755-reach-a-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/teklumt/competitive_programming/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/teklumt/competitive_programming/tree/master/1334-sum-of-numbers-with-units-digit-k) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/teklumt/competitive_programming/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2238-a-number-after-a-double-reversal](https://github.com/teklumt/competitive_programming/tree/master/2238-a-number-after-a-double-reversal) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/teklumt/competitive_programming/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/teklumt/competitive_programming/tree/master/2541-sum-of-number-and-its-reverse) |
@@ -472,6 +474,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/teklumt/competitive_programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1396-count-servers-that-communicate](https://github.com/teklumt/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/teklumt/competitive_programming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/teklumt/competitive_programming/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2378-sender-with-largest-word-count](https://github.com/teklumt/competitive_programming/tree/master/2378-sender-with-largest-word-count) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/teklumt/competitive_programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
