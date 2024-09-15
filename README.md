@@ -415,6 +415,7 @@
 | [0677-map-sum-pairs](https://github.com/teklumt/competitive_programming/tree/master/0677-map-sum-pairs) |
 | [0926-find-and-replace-pattern](https://github.com/teklumt/competitive_programming/tree/master/0926-find-and-replace-pattern) |
 | [1026-string-without-aaa-or-bbb](https://github.com/teklumt/competitive_programming/tree/master/1026-string-without-aaa-or-bbb) |
+| [1078-remove-outermost-parentheses](https://github.com/teklumt/competitive_programming/tree/master/1078-remove-outermost-parentheses) |
 | [1080-camelcase-matching](https://github.com/teklumt/competitive_programming/tree/master/1080-camelcase-matching) |
 | [1272-invalid-transactions](https://github.com/teklumt/competitive_programming/tree/master/1272-invalid-transactions) |
 | [1321-get-equal-substrings-within-budget](https://github.com/teklumt/competitive_programming/tree/master/1321-get-equal-substrings-within-budget) |
@@ -463,6 +464,7 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/teklumt/competitive_programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/teklumt/competitive_programming/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/teklumt/competitive_programming/tree/master/1078-remove-outermost-parentheses) |
 ## Shortest Path
 |  |
 | ------- |
