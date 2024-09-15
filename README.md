@@ -429,6 +429,7 @@
 | [0257-binary-tree-paths](https://github.com/teklumt/competitive_programming/tree/master/0257-binary-tree-paths) |
 | [0592-fraction-addition-and-subtraction](https://github.com/teklumt/competitive_programming/tree/master/0592-fraction-addition-and-subtraction) |
 | [0677-map-sum-pairs](https://github.com/teklumt/competitive_programming/tree/master/0677-map-sum-pairs) |
+| [0857-positions-of-large-groups](https://github.com/teklumt/competitive_programming/tree/master/0857-positions-of-large-groups) |
 | [0926-find-and-replace-pattern](https://github.com/teklumt/competitive_programming/tree/master/0926-find-and-replace-pattern) |
 | [1026-string-without-aaa-or-bbb](https://github.com/teklumt/competitive_programming/tree/master/1026-string-without-aaa-or-bbb) |
 | [1078-remove-outermost-parentheses](https://github.com/teklumt/competitive_programming/tree/master/1078-remove-outermost-parentheses) |
