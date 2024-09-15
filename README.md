@@ -372,6 +372,7 @@
 | [2645-pass-the-pillow](https://github.com/teklumt/competitive_programming/tree/master/2645-pass-the-pillow) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/teklumt/competitive_programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/teklumt/competitive_programming/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/teklumt/competitive_programming/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Tree
 |  |
 | ------- |
@@ -447,6 +448,7 @@
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/teklumt/competitive_programming/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/teklumt/competitive_programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/teklumt/competitive_programming/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Dynamic Programming
 |  |
 | ------- |
