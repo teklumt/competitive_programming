@@ -269,6 +269,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/teklumt/competitive_programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/teklumt/competitive_programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/teklumt/competitive_programming/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/teklumt/competitive_programming/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/teklumt/competitive_programming/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/teklumt/competitive_programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/teklumt/competitive_programming/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -471,6 +472,7 @@
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/teklumt/competitive_programming/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1814-jump-game-vi](https://github.com/teklumt/competitive_programming/tree/master/1814-jump-game-vi) |
 | [2001-jump-game-vii](https://github.com/teklumt/competitive_programming/tree/master/2001-jump-game-vii) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/teklumt/competitive_programming/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
