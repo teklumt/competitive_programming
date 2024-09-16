@@ -451,6 +451,7 @@
 | [1526-html-entity-parser](https://github.com/teklumt/competitive_programming/tree/master/1526-html-entity-parser) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/teklumt/competitive_programming/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/teklumt/competitive_programming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2001-jump-game-vii](https://github.com/teklumt/competitive_programming/tree/master/2001-jump-game-vii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/teklumt/competitive_programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/teklumt/competitive_programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/teklumt/competitive_programming/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -467,6 +468,7 @@
 | [0264-ugly-number-ii](https://github.com/teklumt/competitive_programming/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/teklumt/competitive_programming/tree/master/0313-super-ugly-number) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/teklumt/competitive_programming/tree/master/1334-sum-of-numbers-with-units-digit-k) |
+| [2001-jump-game-vii](https://github.com/teklumt/competitive_programming/tree/master/2001-jump-game-vii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -512,11 +514,13 @@
 | [1321-get-equal-substrings-within-budget](https://github.com/teklumt/competitive_programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1435-xor-queries-of-a-subarray](https://github.com/teklumt/competitive_programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/teklumt/competitive_programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2001-jump-game-vii](https://github.com/teklumt/competitive_programming/tree/master/2001-jump-game-vii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/teklumt/competitive_programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sliding Window
 |  |
 | ------- |
 | [1321-get-equal-substrings-within-budget](https://github.com/teklumt/competitive_programming/tree/master/1321-get-equal-substrings-within-budget) |
+| [2001-jump-game-vii](https://github.com/teklumt/competitive_programming/tree/master/2001-jump-game-vii) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/teklumt/competitive_programming/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Divide and Conquer
 |  |
