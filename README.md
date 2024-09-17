@@ -372,6 +372,7 @@
 | [2298-count-integers-with-even-digit-sum](https://github.com/teklumt/competitive_programming/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/teklumt/competitive_programming/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2645-pass-the-pillow](https://github.com/teklumt/competitive_programming/tree/master/2645-pass-the-pillow) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/teklumt/competitive_programming/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/teklumt/competitive_programming/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Simulation
 |  |
@@ -498,6 +499,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/teklumt/competitive_programming/tree/master/0002-add-two-numbers) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/teklumt/competitive_programming/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Counting
 |  |
 | ------- |
