@@ -321,6 +321,7 @@
 | [0264-ugly-number-ii](https://github.com/teklumt/competitive_programming/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0677-map-sum-pairs](https://github.com/teklumt/competitive_programming/tree/master/0677-map-sum-pairs) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/teklumt/competitive_programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/teklumt/competitive_programming/tree/master/0926-find-and-replace-pattern) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/teklumt/competitive_programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1272-invalid-transactions](https://github.com/teklumt/competitive_programming/tree/master/1272-invalid-transactions) |
@@ -443,6 +444,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/teklumt/competitive_programming/tree/master/0592-fraction-addition-and-subtraction) |
 | [0677-map-sum-pairs](https://github.com/teklumt/competitive_programming/tree/master/0677-map-sum-pairs) |
 | [0857-positions-of-large-groups](https://github.com/teklumt/competitive_programming/tree/master/0857-positions-of-large-groups) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/teklumt/competitive_programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/teklumt/competitive_programming/tree/master/0926-find-and-replace-pattern) |
 | [1026-string-without-aaa-or-bbb](https://github.com/teklumt/competitive_programming/tree/master/1026-string-without-aaa-or-bbb) |
 | [1078-remove-outermost-parentheses](https://github.com/teklumt/competitive_programming/tree/master/1078-remove-outermost-parentheses) |
@@ -496,6 +498,7 @@
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/teklumt/competitive_programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/teklumt/competitive_programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1396-count-servers-that-communicate](https://github.com/teklumt/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/teklumt/competitive_programming/tree/master/1786-count-the-number-of-consistent-strings) |
