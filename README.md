@@ -278,6 +278,7 @@
 | [3193-maximum-strong-pair-xor-i](https://github.com/teklumt/competitive_programming/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/teklumt/competitive_programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/teklumt/competitive_programming/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/teklumt/competitive_programming/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -431,6 +432,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/teklumt/competitive_programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/teklumt/competitive_programming/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/teklumt/competitive_programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/teklumt/competitive_programming/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Matrix
 |  |
 | ------- |
