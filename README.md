@@ -271,6 +271,7 @@
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/teklumt/competitive_programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/teklumt/competitive_programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/teklumt/competitive_programming/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/teklumt/competitive_programming/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/teklumt/competitive_programming/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/teklumt/competitive_programming/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -443,6 +444,7 @@
 | [1876-map-of-highest-peak](https://github.com/teklumt/competitive_programming/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/teklumt/competitive_programming/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/teklumt/competitive_programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/teklumt/competitive_programming/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/teklumt/competitive_programming/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## String
 |  |
@@ -481,6 +483,7 @@
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/teklumt/competitive_programming/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1814-jump-game-vi](https://github.com/teklumt/competitive_programming/tree/master/1814-jump-game-vi) |
 | [2001-jump-game-vii](https://github.com/teklumt/competitive_programming/tree/master/2001-jump-game-vii) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/teklumt/competitive_programming/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/teklumt/competitive_programming/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Heap (Priority Queue)
 |  |
