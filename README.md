@@ -204,6 +204,7 @@
 | [1753-path-with-minimum-effort](https://github.com/teklumt/competitive_programming/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/teklumt/competitive_programming/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/teklumt/competitive_programming/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/teklumt/competitive_programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2213-find-all-people-with-secret](https://github.com/teklumt/competitive_programming/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/teklumt/competitive_programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph
@@ -264,6 +265,7 @@
 | [1876-map-of-highest-peak](https://github.com/teklumt/competitive_programming/tree/master/1876-map-of-highest-peak) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/teklumt/competitive_programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/teklumt/competitive_programming/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/teklumt/competitive_programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2155-find-missing-observations](https://github.com/teklumt/competitive_programming/tree/master/2155-find-missing-observations) |
 | [2378-sender-with-largest-word-count](https://github.com/teklumt/competitive_programming/tree/master/2378-sender-with-largest-word-count) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
@@ -440,6 +442,7 @@
 | [1753-path-with-minimum-effort](https://github.com/teklumt/competitive_programming/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/teklumt/competitive_programming/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/teklumt/competitive_programming/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/teklumt/competitive_programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/teklumt/competitive_programming/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## String
 |  |
