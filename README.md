@@ -273,6 +273,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/teklumt/competitive_programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/teklumt/competitive_programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/teklumt/competitive_programming/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2846-robot-collisions](https://github.com/teklumt/competitive_programming/tree/master/2846-robot-collisions) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/teklumt/competitive_programming/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/teklumt/competitive_programming/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/teklumt/competitive_programming/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -302,6 +303,7 @@
 | [2213-find-all-people-with-secret](https://github.com/teklumt/competitive_programming/tree/master/2213-find-all-people-with-secret) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/teklumt/competitive_programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2846-robot-collisions](https://github.com/teklumt/competitive_programming/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/teklumt/competitive_programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Union Find
 |  |
@@ -390,6 +392,7 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/teklumt/competitive_programming/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/teklumt/competitive_programming/tree/master/2645-pass-the-pillow) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/teklumt/competitive_programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2846-robot-collisions](https://github.com/teklumt/competitive_programming/tree/master/2846-robot-collisions) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/teklumt/competitive_programming/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/teklumt/competitive_programming/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Tree
@@ -527,6 +530,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/teklumt/competitive_programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/teklumt/competitive_programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/teklumt/competitive_programming/tree/master/1078-remove-outermost-parentheses) |
+| [2846-robot-collisions](https://github.com/teklumt/competitive_programming/tree/master/2846-robot-collisions) |
 ## Shortest Path
 |  |
 | ------- |
