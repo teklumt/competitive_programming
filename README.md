@@ -207,6 +207,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/teklumt/competitive_programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2213-find-all-people-with-secret](https://github.com/teklumt/competitive_programming/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/teklumt/competitive_programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/teklumt/competitive_programming/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Graph
 |  |
 | ------- |
@@ -485,6 +486,7 @@
 | [2001-jump-game-vii](https://github.com/teklumt/competitive_programming/tree/master/2001-jump-game-vii) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/teklumt/competitive_programming/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/teklumt/competitive_programming/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/teklumt/competitive_programming/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -597,4 +599,8 @@
 |  |
 | ------- |
 | [1814-jump-game-vi](https://github.com/teklumt/competitive_programming/tree/master/1814-jump-game-vi) |
+## Memoization
+|  |
+| ------- |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/teklumt/competitive_programming/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 <!---LeetCode Topics End-->
