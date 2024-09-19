@@ -245,6 +245,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/teklumt/competitive_programming/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/teklumt/competitive_programming/tree/master/0624-maximum-distance-in-arrays) |
+| [0747-min-cost-climbing-stairs](https://github.com/teklumt/competitive_programming/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/teklumt/competitive_programming/tree/master/0890-lemonade-change) |
 | [0926-find-and-replace-pattern](https://github.com/teklumt/competitive_programming/tree/master/0926-find-and-replace-pattern) |
 | [1080-camelcase-matching](https://github.com/teklumt/competitive_programming/tree/master/1080-camelcase-matching) |
@@ -490,6 +491,7 @@
 | [0152-maximum-product-subarray](https://github.com/teklumt/competitive_programming/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/teklumt/competitive_programming/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/teklumt/competitive_programming/tree/master/0313-super-ugly-number) |
+| [0747-min-cost-climbing-stairs](https://github.com/teklumt/competitive_programming/tree/master/0747-min-cost-climbing-stairs) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/teklumt/competitive_programming/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1814-jump-game-vi](https://github.com/teklumt/competitive_programming/tree/master/1814-jump-game-vi) |
 | [2001-jump-game-vii](https://github.com/teklumt/competitive_programming/tree/master/2001-jump-game-vii) |
