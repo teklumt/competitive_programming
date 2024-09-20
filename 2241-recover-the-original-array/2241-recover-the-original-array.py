@@ -1,18 +1,16 @@
 class Solution:
     def recoverArray(self, nums: List[int]) -> List[int]:
         nums.sort()
-        nn = nums[0]
-        k = 0
-        rr = []
+        first = nums[0]
+        possibleK = []
         for i in range(1, len(nums)):
-            if (nums[i] - nn) != 0 and (nums[i] - nn)  % 2 == 0:
-                mmm = (nums[i] - nn) // 2
-                rr.append(mmm)
-                # break
+            if (nums[i] - first) != 0 and (nums[i] - first)  % 2 == 0:
+                cur = (nums[i] - first) // 2
+                possibleK.append(cur)
+
         def func(k):
             count = Counter(nums)
             res = []
-            # print(k)
             for i in nums:
                 if count[i]:
                     
@@ -21,7 +19,7 @@ class Solution:
                     count[i] -= 1
                     count[cur + k] -= 1
             return res
-        for i in rr:
+        for i in possibleK:
             if len(func(i)) == len(nums) // 2:
                 return func(i)
                 
