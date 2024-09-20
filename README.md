@@ -271,6 +271,7 @@
 | [2035-count-sub-islands](https://github.com/teklumt/competitive_programming/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/teklumt/competitive_programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2155-find-missing-observations](https://github.com/teklumt/competitive_programming/tree/master/2155-find-missing-observations) |
+| [2241-recover-the-original-array](https://github.com/teklumt/competitive_programming/tree/master/2241-recover-the-original-array) |
 | [2378-sender-with-largest-word-count](https://github.com/teklumt/competitive_programming/tree/master/2378-sender-with-largest-word-count) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/teklumt/competitive_programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -306,6 +307,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/teklumt/competitive_programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/teklumt/competitive_programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [2213-find-all-people-with-secret](https://github.com/teklumt/competitive_programming/tree/master/2213-find-all-people-with-secret) |
+| [2241-recover-the-original-array](https://github.com/teklumt/competitive_programming/tree/master/2241-recover-the-original-array) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/teklumt/competitive_programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2846-robot-collisions](https://github.com/teklumt/competitive_programming/tree/master/2846-robot-collisions) |
@@ -345,6 +347,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/teklumt/competitive_programming/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/teklumt/competitive_programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/teklumt/competitive_programming/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [2241-recover-the-original-array](https://github.com/teklumt/competitive_programming/tree/master/2241-recover-the-original-array) |
 | [2378-sender-with-largest-word-count](https://github.com/teklumt/competitive_programming/tree/master/2378-sender-with-largest-word-count) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/teklumt/competitive_programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -357,6 +360,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1080-camelcase-matching](https://github.com/teklumt/competitive_programming/tree/master/1080-camelcase-matching) |
+| [2241-recover-the-original-array](https://github.com/teklumt/competitive_programming/tree/master/2241-recover-the-original-array) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/teklumt/competitive_programming/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Linked List
 |  |
@@ -590,6 +594,7 @@
 |  |
 | ------- |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/teklumt/competitive_programming/tree/master/1334-sum-of-numbers-with-units-digit-k) |
+| [2241-recover-the-original-array](https://github.com/teklumt/competitive_programming/tree/master/2241-recover-the-original-array) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/teklumt/competitive_programming/tree/master/2541-sum-of-number-and-its-reverse) |
 ## Bit Manipulation
 |  |
