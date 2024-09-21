@@ -337,6 +337,7 @@
 | [0217-contains-duplicate](https://github.com/teklumt/competitive_programming/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/teklumt/competitive_programming/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0355-design-twitter](https://github.com/teklumt/competitive_programming/tree/master/0355-design-twitter) |
 | [0677-map-sum-pairs](https://github.com/teklumt/competitive_programming/tree/master/0677-map-sum-pairs) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/teklumt/competitive_programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/teklumt/competitive_programming/tree/master/0926-find-and-replace-pattern) |
@@ -369,6 +370,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/teklumt/competitive_programming/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/teklumt/competitive_programming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0355-design-twitter](https://github.com/teklumt/competitive_programming/tree/master/0355-design-twitter) |
 | [0725-split-linked-list-in-parts](https://github.com/teklumt/competitive_programming/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/teklumt/competitive_programming/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/teklumt/competitive_programming/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -519,6 +521,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/teklumt/competitive_programming/tree/master/0264-ugly-number-ii) |
+| [0355-design-twitter](https://github.com/teklumt/competitive_programming/tree/master/0355-design-twitter) |
 | [1325-path-with-maximum-probability](https://github.com/teklumt/competitive_programming/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/teklumt/competitive_programming/tree/master/1753-path-with-minimum-effort) |
 | [1814-jump-game-vi](https://github.com/teklumt/competitive_programming/tree/master/1814-jump-game-vi) |
@@ -586,6 +589,7 @@
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/teklumt/competitive_programming/tree/master/0355-design-twitter) |
 | [0677-map-sum-pairs](https://github.com/teklumt/competitive_programming/tree/master/0677-map-sum-pairs) |
 ## Trie
 |  |
