@@ -165,6 +165,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/teklumt/competitive_programming/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/teklumt/competitive_programming/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/teklumt/competitive_programming/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/teklumt/competitive_programming/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/teklumt/competitive_programming/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/teklumt/competitive_programming/tree/master/0685-redundant-connection-ii) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/teklumt/competitive_programming/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -587,6 +588,7 @@
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/teklumt/competitive_programming/tree/master/0386-lexicographical-numbers) |
 | [0677-map-sum-pairs](https://github.com/teklumt/competitive_programming/tree/master/0677-map-sum-pairs) |
 | [1080-camelcase-matching](https://github.com/teklumt/competitive_programming/tree/master/1080-camelcase-matching) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/teklumt/competitive_programming/tree/master/3193-maximum-strong-pair-xor-i) |
