@@ -260,6 +260,7 @@
 | [1396-count-servers-that-communicate](https://github.com/teklumt/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/teklumt/competitive_programming/tree/master/1428-jump-game-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/teklumt/competitive_programming/tree/master/1435-xor-queries-of-a-subarray) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/teklumt/competitive_programming/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/teklumt/competitive_programming/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/teklumt/competitive_programming/tree/master/1524-string-matching-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/teklumt/competitive_programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -306,6 +307,7 @@
 | [1272-invalid-transactions](https://github.com/teklumt/competitive_programming/tree/master/1272-invalid-transactions) |
 | [1333-sort-the-jumbled-numbers](https://github.com/teklumt/competitive_programming/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/teklumt/competitive_programming/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/teklumt/competitive_programming/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/teklumt/competitive_programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/teklumt/competitive_programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [2213-find-all-people-with-secret](https://github.com/teklumt/competitive_programming/tree/master/2213-find-all-people-with-secret) |
@@ -546,6 +548,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/teklumt/competitive_programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/teklumt/competitive_programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1396-count-servers-that-communicate](https://github.com/teklumt/competitive_programming/tree/master/1396-count-servers-that-communicate) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/teklumt/competitive_programming/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/teklumt/competitive_programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/teklumt/competitive_programming/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2378-sender-with-largest-word-count](https://github.com/teklumt/competitive_programming/tree/master/2378-sender-with-largest-word-count) |
@@ -611,6 +614,7 @@
 | [0191-number-of-1-bits](https://github.com/teklumt/competitive_programming/tree/master/0191-number-of-1-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/teklumt/competitive_programming/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/teklumt/competitive_programming/tree/master/1435-xor-queries-of-a-subarray) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/teklumt/competitive_programming/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/teklumt/competitive_programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/teklumt/competitive_programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/teklumt/competitive_programming/tree/master/2323-minimum-bit-flips-to-convert-number) |
