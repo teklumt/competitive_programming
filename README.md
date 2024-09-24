@@ -390,6 +390,7 @@
 | [0755-reach-a-number](https://github.com/teklumt/competitive_programming/tree/master/0755-reach-a-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/teklumt/competitive_programming/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/teklumt/competitive_programming/tree/master/1334-sum-of-numbers-with-units-digit-k) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/teklumt/competitive_programming/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/teklumt/competitive_programming/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2155-find-missing-observations](https://github.com/teklumt/competitive_programming/tree/master/2155-find-missing-observations) |
 | [2238-a-number-after-a-double-reversal](https://github.com/teklumt/competitive_programming/tree/master/2238-a-number-after-a-double-reversal) |
