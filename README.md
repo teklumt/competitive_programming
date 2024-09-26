@@ -246,6 +246,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/teklumt/competitive_programming/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/teklumt/competitive_programming/tree/master/0624-maximum-distance-in-arrays) |
+| [0729-my-calendar-i](https://github.com/teklumt/competitive_programming/tree/master/0729-my-calendar-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/teklumt/competitive_programming/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/teklumt/competitive_programming/tree/master/0890-lemonade-change) |
 | [0926-find-and-replace-pattern](https://github.com/teklumt/competitive_programming/tree/master/0926-find-and-replace-pattern) |
@@ -292,6 +293,7 @@
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/teklumt/competitive_programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0729-my-calendar-i](https://github.com/teklumt/competitive_programming/tree/master/0729-my-calendar-i) |
 | [0755-reach-a-number](https://github.com/teklumt/competitive_programming/tree/master/0755-reach-a-number) |
 | [1321-get-equal-substrings-within-budget](https://github.com/teklumt/competitive_programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1675-magnetic-force-between-two-balls](https://github.com/teklumt/competitive_programming/tree/master/1675-magnetic-force-between-two-balls) |
@@ -599,6 +601,7 @@
 | ------- |
 | [0355-design-twitter](https://github.com/teklumt/competitive_programming/tree/master/0355-design-twitter) |
 | [0677-map-sum-pairs](https://github.com/teklumt/competitive_programming/tree/master/0677-map-sum-pairs) |
+| [0729-my-calendar-i](https://github.com/teklumt/competitive_programming/tree/master/0729-my-calendar-i) |
 ## Trie
 |  |
 | ------- |
@@ -649,4 +652,12 @@
 |  |
 | ------- |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/teklumt/competitive_programming/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/teklumt/competitive_programming/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/teklumt/competitive_programming/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
