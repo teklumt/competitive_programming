@@ -303,6 +303,7 @@
 | [0179-largest-number](https://github.com/teklumt/competitive_programming/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/teklumt/competitive_programming/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0807-custom-sort-string](https://github.com/teklumt/competitive_programming/tree/master/0807-custom-sort-string) |
 | [0991-array-of-doubled-pairs](https://github.com/teklumt/competitive_programming/tree/master/0991-array-of-doubled-pairs) |
 | [1272-invalid-transactions](https://github.com/teklumt/competitive_programming/tree/master/1272-invalid-transactions) |
 | [1333-sort-the-jumbled-numbers](https://github.com/teklumt/competitive_programming/tree/master/1333-sort-the-jumbled-numbers) |
@@ -341,6 +342,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/teklumt/competitive_programming/tree/master/0355-design-twitter) |
 | [0677-map-sum-pairs](https://github.com/teklumt/competitive_programming/tree/master/0677-map-sum-pairs) |
+| [0807-custom-sort-string](https://github.com/teklumt/competitive_programming/tree/master/0807-custom-sort-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/teklumt/competitive_programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/teklumt/competitive_programming/tree/master/0926-find-and-replace-pattern) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/teklumt/competitive_programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -482,6 +484,7 @@
 | [0257-binary-tree-paths](https://github.com/teklumt/competitive_programming/tree/master/0257-binary-tree-paths) |
 | [0592-fraction-addition-and-subtraction](https://github.com/teklumt/competitive_programming/tree/master/0592-fraction-addition-and-subtraction) |
 | [0677-map-sum-pairs](https://github.com/teklumt/competitive_programming/tree/master/0677-map-sum-pairs) |
+| [0807-custom-sort-string](https://github.com/teklumt/competitive_programming/tree/master/0807-custom-sort-string) |
 | [0857-positions-of-large-groups](https://github.com/teklumt/competitive_programming/tree/master/0857-positions-of-large-groups) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/teklumt/competitive_programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/teklumt/competitive_programming/tree/master/0926-find-and-replace-pattern) |
