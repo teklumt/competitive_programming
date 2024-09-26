@@ -279,6 +279,7 @@
 | [2378-sender-with-largest-word-count](https://github.com/teklumt/competitive_programming/tree/master/2378-sender-with-largest-word-count) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/teklumt/competitive_programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/teklumt/competitive_programming/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/teklumt/competitive_programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/teklumt/competitive_programming/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/teklumt/competitive_programming/tree/master/2846-robot-collisions) |
@@ -506,6 +507,7 @@
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/teklumt/competitive_programming/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2378-sender-with-largest-word-count](https://github.com/teklumt/competitive_programming/tree/master/2378-sender-with-largest-word-count) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/teklumt/competitive_programming/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/teklumt/competitive_programming/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/teklumt/competitive_programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/teklumt/competitive_programming/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
