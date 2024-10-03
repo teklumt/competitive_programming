@@ -265,6 +265,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/teklumt/competitive_programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/teklumt/competitive_programming/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/teklumt/competitive_programming/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/teklumt/competitive_programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/teklumt/competitive_programming/tree/master/1524-string-matching-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/teklumt/competitive_programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1646-kth-missing-positive-number](https://github.com/teklumt/competitive_programming/tree/master/1646-kth-missing-positive-number) |
@@ -574,6 +575,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/teklumt/competitive_programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/teklumt/competitive_programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/teklumt/competitive_programming/tree/master/1078-remove-outermost-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/teklumt/competitive_programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2846-robot-collisions](https://github.com/teklumt/competitive_programming/tree/master/2846-robot-collisions) |
 ## Shortest Path
 |  |
@@ -613,6 +615,7 @@
 | [0355-design-twitter](https://github.com/teklumt/competitive_programming/tree/master/0355-design-twitter) |
 | [0677-map-sum-pairs](https://github.com/teklumt/competitive_programming/tree/master/0677-map-sum-pairs) |
 | [0729-my-calendar-i](https://github.com/teklumt/competitive_programming/tree/master/0729-my-calendar-i) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/teklumt/competitive_programming/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Trie
 |  |
 | ------- |
