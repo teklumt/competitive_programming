@@ -245,6 +245,7 @@
 | [0217-contains-duplicate](https://github.com/teklumt/competitive_programming/tree/master/0217-contains-duplicate) |
 | [0313-super-ugly-number](https://github.com/teklumt/competitive_programming/tree/master/0313-super-ugly-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/teklumt/competitive_programming/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/teklumt/competitive_programming/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/teklumt/competitive_programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0729-my-calendar-i](https://github.com/teklumt/competitive_programming/tree/master/0729-my-calendar-i) |
@@ -301,6 +302,7 @@
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/teklumt/competitive_programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/teklumt/competitive_programming/tree/master/0410-split-array-largest-sum) |
 | [0729-my-calendar-i](https://github.com/teklumt/competitive_programming/tree/master/0729-my-calendar-i) |
 | [0755-reach-a-number](https://github.com/teklumt/competitive_programming/tree/master/0755-reach-a-number) |
 | [0907-koko-eating-bananas](https://github.com/teklumt/competitive_programming/tree/master/0907-koko-eating-bananas) |
@@ -465,6 +467,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/teklumt/competitive_programming/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/teklumt/competitive_programming/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/teklumt/competitive_programming/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/teklumt/competitive_programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/teklumt/competitive_programming/tree/master/0890-lemonade-change) |
@@ -532,6 +535,7 @@
 | [0152-maximum-product-subarray](https://github.com/teklumt/competitive_programming/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/teklumt/competitive_programming/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/teklumt/competitive_programming/tree/master/0313-super-ugly-number) |
+| [0410-split-array-largest-sum](https://github.com/teklumt/competitive_programming/tree/master/0410-split-array-largest-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/teklumt/competitive_programming/tree/master/0747-min-cost-climbing-stairs) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/teklumt/competitive_programming/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/teklumt/competitive_programming/tree/master/1334-sum-of-numbers-with-units-digit-k) |
@@ -591,6 +595,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/teklumt/competitive_programming/tree/master/0410-split-array-largest-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/teklumt/competitive_programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/teklumt/competitive_programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1435-xor-queries-of-a-subarray](https://github.com/teklumt/competitive_programming/tree/master/1435-xor-queries-of-a-subarray) |
