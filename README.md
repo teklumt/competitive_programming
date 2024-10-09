@@ -168,6 +168,7 @@
 | [0386-lexicographical-numbers](https://github.com/teklumt/competitive_programming/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/teklumt/competitive_programming/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/teklumt/competitive_programming/tree/master/0685-redundant-connection-ii) |
+| [0744-network-delay-time](https://github.com/teklumt/competitive_programming/tree/master/0744-network-delay-time) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/teklumt/competitive_programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/teklumt/competitive_programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/teklumt/competitive_programming/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -193,6 +194,7 @@
 | [0207-course-schedule](https://github.com/teklumt/competitive_programming/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/teklumt/competitive_programming/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/teklumt/competitive_programming/tree/master/0685-redundant-connection-ii) |
+| [0744-network-delay-time](https://github.com/teklumt/competitive_programming/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/teklumt/competitive_programming/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/teklumt/competitive_programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/teklumt/competitive_programming/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -215,6 +217,7 @@
 | [0207-course-schedule](https://github.com/teklumt/competitive_programming/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/teklumt/competitive_programming/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/teklumt/competitive_programming/tree/master/0685-redundant-connection-ii) |
+| [0744-network-delay-time](https://github.com/teklumt/competitive_programming/tree/master/0744-network-delay-time) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/teklumt/competitive_programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/teklumt/competitive_programming/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1275-validate-binary-tree-nodes](https://github.com/teklumt/competitive_programming/tree/master/1275-validate-binary-tree-nodes) |
@@ -560,6 +563,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/teklumt/competitive_programming/tree/master/0264-ugly-number-ii) |
 | [0355-design-twitter](https://github.com/teklumt/competitive_programming/tree/master/0355-design-twitter) |
+| [0744-network-delay-time](https://github.com/teklumt/competitive_programming/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/teklumt/competitive_programming/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/teklumt/competitive_programming/tree/master/1753-path-with-minimum-effort) |
 | [1814-jump-game-vi](https://github.com/teklumt/competitive_programming/tree/master/1814-jump-game-vi) |
@@ -600,6 +604,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/teklumt/competitive_programming/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/teklumt/competitive_programming/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/teklumt/competitive_programming/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Prefix Sum
