@@ -232,6 +232,7 @@
 | [2198-process-restricted-friend-requests](https://github.com/teklumt/competitive_programming/tree/master/2198-process-restricted-friend-requests) |
 | [2213-find-all-people-with-secret](https://github.com/teklumt/competitive_programming/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/teklumt/competitive_programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/teklumt/competitive_programming/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Topological Sort
 |  |
 | ------- |
@@ -304,6 +305,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/teklumt/competitive_programming/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/teklumt/competitive_programming/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/teklumt/competitive_programming/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/teklumt/competitive_programming/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/teklumt/competitive_programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/teklumt/competitive_programming/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/teklumt/competitive_programming/tree/master/3528-reach-end-of-array-with-max-score) |
@@ -573,6 +575,7 @@
 | [1753-path-with-minimum-effort](https://github.com/teklumt/competitive_programming/tree/master/1753-path-with-minimum-effort) |
 | [1814-jump-game-vi](https://github.com/teklumt/competitive_programming/tree/master/1814-jump-game-vi) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/teklumt/competitive_programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/teklumt/competitive_programming/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Backtracking
 |  |
 | ------- |
@@ -613,6 +616,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/teklumt/competitive_programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/teklumt/competitive_programming/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/teklumt/competitive_programming/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/teklumt/competitive_programming/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Prefix Sum
 |  |
 | ------- |
