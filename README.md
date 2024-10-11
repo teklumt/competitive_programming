@@ -293,6 +293,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/teklumt/competitive_programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/teklumt/competitive_programming/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/teklumt/competitive_programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/teklumt/competitive_programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2155-find-missing-observations](https://github.com/teklumt/competitive_programming/tree/master/2155-find-missing-observations) |
 | [2241-recover-the-original-array](https://github.com/teklumt/competitive_programming/tree/master/2241-recover-the-original-array) |
 | [2378-sender-with-largest-word-count](https://github.com/teklumt/competitive_programming/tree/master/2378-sender-with-largest-word-count) |
@@ -387,6 +388,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/teklumt/competitive_programming/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/teklumt/competitive_programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/teklumt/competitive_programming/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/teklumt/competitive_programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2241-recover-the-original-array](https://github.com/teklumt/competitive_programming/tree/master/2241-recover-the-original-array) |
 | [2378-sender-with-largest-word-count](https://github.com/teklumt/competitive_programming/tree/master/2378-sender-with-largest-word-count) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
@@ -574,6 +576,7 @@
 | [1325-path-with-maximum-probability](https://github.com/teklumt/competitive_programming/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/teklumt/competitive_programming/tree/master/1753-path-with-minimum-effort) |
 | [1814-jump-game-vi](https://github.com/teklumt/competitive_programming/tree/master/1814-jump-game-vi) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/teklumt/competitive_programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/teklumt/competitive_programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/teklumt/competitive_programming/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Backtracking
