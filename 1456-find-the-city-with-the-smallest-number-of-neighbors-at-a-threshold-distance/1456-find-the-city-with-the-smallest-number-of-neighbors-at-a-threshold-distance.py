@@ -1,36 +1,29 @@
 class Solution:
     def findTheCity(self, n: int, edges: List[List[int]], distanceThreshold: int) -> int:
+        res = [[inf] * n for i in range(n)]
+        for u , v, w in edges:
+            res[u][u] = res[v][v] = 0
+            res[u][v] = res[v][u] = w
         
-        ans = defaultdict(list)
-        graph = defaultdict(list)
-        for u , v , w in edges:
-            graph[u].append((v , w))
-            graph[v].append((u , w))
+        for via in range(n):
 
-        def function(root):
-            ans[root] = 0
+            for  u in range(n):
+                for v in range(n):
+                    res[u][v] = min(res[u][v] , res[u][via] + res[via][v])
 
-            heap = [(0, root)]
-            seen  = set([root])
+        ans = 0
+        minn = inf
+        for i in  range(n):
+            count = 0
+            for j in range(n):
+                if res[i][j] <= distanceThreshold:
+                    count += 1
+            if count < minn:
+                ans, minn = i, count
+            elif count == minn:
+                ans = max(ans, i)
+                
+                
+        return ans
 
-            while heap:
-                level , node = heappop(heap)
-                if level > distanceThreshold:
-                    continue
-                if node not in seen:
-                    ans[root] += 1
-                seen.add(node)
-                for u , w in graph[node]:
-                    if u not in seen:
-                        heappush(heap, (level + w, u))
-
-        for i in range(n):
-            function(i)
         
-        minn = min(ans.values())
-        res = -inf
-
-        for i in ans:
-            if ans[i] == minn:
-                res = max(res, i)
-        return res
