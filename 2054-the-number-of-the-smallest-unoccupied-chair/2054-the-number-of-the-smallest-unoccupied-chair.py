@@ -2,7 +2,6 @@ class Solution:
     def smallestChair(self, times: List[List[int]], targetFriend: int) -> int:
         chear = [i for i in range(len(times))]
         times = sorted([(times[i][0], times[i][1], i) for i in range(len(times))])
-
         heap = []
         
         for i , j, k in times:
