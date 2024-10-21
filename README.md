@@ -303,6 +303,7 @@
 | [2536-determine-if-two-events-have-conflict](https://github.com/teklumt/competitive_programming/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/teklumt/competitive_programming/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/teklumt/competitive_programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/teklumt/competitive_programming/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/teklumt/competitive_programming/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/teklumt/competitive_programming/tree/master/2846-robot-collisions) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/teklumt/competitive_programming/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -500,6 +501,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/teklumt/competitive_programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/teklumt/competitive_programming/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/teklumt/competitive_programming/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/teklumt/competitive_programming/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/teklumt/competitive_programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/teklumt/competitive_programming/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Matrix
