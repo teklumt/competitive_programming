@@ -404,6 +404,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/teklumt/competitive_programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teklumt/competitive_programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0901-advantage-shuffle](https://github.com/teklumt/competitive_programming/tree/master/0901-advantage-shuffle) |
 | [1080-camelcase-matching](https://github.com/teklumt/competitive_programming/tree/master/1080-camelcase-matching) |
@@ -523,6 +524,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/teklumt/competitive_programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0091-decode-ways](https://github.com/teklumt/competitive_programming/tree/master/0091-decode-ways) |
 | [0179-largest-number](https://github.com/teklumt/competitive_programming/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/teklumt/competitive_programming/tree/master/0257-binary-tree-paths) |
@@ -700,6 +702,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/teklumt/competitive_programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1080-camelcase-matching](https://github.com/teklumt/competitive_programming/tree/master/1080-camelcase-matching) |
 | [1524-string-matching-in-an-array](https://github.com/teklumt/competitive_programming/tree/master/1524-string-matching-in-an-array) |
 ## Queue
