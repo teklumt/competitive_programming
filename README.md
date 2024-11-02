@@ -551,6 +551,7 @@
 | [2378-sender-with-largest-word-count](https://github.com/teklumt/competitive_programming/tree/master/2378-sender-with-largest-word-count) |
 | [2502-sort-the-people](https://github.com/teklumt/competitive_programming/tree/master/2502-sort-the-people) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/teklumt/competitive_programming/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2580-circular-sentence](https://github.com/teklumt/competitive_programming/tree/master/2580-circular-sentence) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/teklumt/competitive_programming/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/teklumt/competitive_programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/teklumt/competitive_programming/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
