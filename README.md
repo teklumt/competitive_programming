@@ -247,6 +247,7 @@
 | [0064-minimum-path-sum](https://github.com/teklumt/competitive_programming/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/teklumt/competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/teklumt/competitive_programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0120-triangle](https://github.com/teklumt/competitive_programming/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/teklumt/competitive_programming/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/teklumt/competitive_programming/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/teklumt/competitive_programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -561,6 +562,7 @@
 | [0064-minimum-path-sum](https://github.com/teklumt/competitive_programming/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/teklumt/competitive_programming/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/teklumt/competitive_programming/tree/master/0096-unique-binary-search-trees) |
+| [0120-triangle](https://github.com/teklumt/competitive_programming/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/teklumt/competitive_programming/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/teklumt/competitive_programming/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/teklumt/competitive_programming/tree/master/0313-super-ugly-number) |
