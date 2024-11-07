@@ -539,6 +539,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/teklumt/competitive_programming/tree/master/1078-remove-outermost-parentheses) |
 | [1080-camelcase-matching](https://github.com/teklumt/competitive_programming/tree/master/1080-camelcase-matching) |
 | [1272-invalid-transactions](https://github.com/teklumt/competitive_programming/tree/master/1272-invalid-transactions) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/teklumt/competitive_programming/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/teklumt/competitive_programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/teklumt/competitive_programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1524-string-matching-in-an-array](https://github.com/teklumt/competitive_programming/tree/master/1524-string-matching-in-an-array) |
@@ -623,6 +624,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/teklumt/competitive_programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/teklumt/competitive_programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/teklumt/competitive_programming/tree/master/1078-remove-outermost-parentheses) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/teklumt/competitive_programming/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/teklumt/competitive_programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2846-robot-collisions](https://github.com/teklumt/competitive_programming/tree/master/2846-robot-collisions) |
 ## Shortest Path
